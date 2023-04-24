@@ -4,19 +4,19 @@
     "url": "https://www.cvml.org.ng",
     "icon": "https://icons.duckduckgo.com/ip3/www.cvml.org.ng.ico",
     "slug": "cvml",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 1001,
-    "timeDay": 1001,
-    "timeWeek": 1001,
-    "timeMonth": 1001,
-    "timeYear": 1001,
+    "status": "up",
+    "uptime": "63.57%",
+    "uptimeDay": "63.57%",
+    "uptimeWeek": "63.57%",
+    "uptimeMonth": "63.57%",
+    "uptimeYear": "63.57%",
+    "time": 1122,
+    "timeDay": 1122,
+    "timeWeek": 1122,
+    "timeMonth": 1122,
+    "timeYear": 1122,
     "dailyMinutesDown": {
-      "2023-04-24": 0
+      "2023-04-24": 11
     }
   },
   {
